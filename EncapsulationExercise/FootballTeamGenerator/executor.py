@@ -1,7 +1,7 @@
 import unittest
 
-from project.player import Player
-from project.team import Team
+from AttributesAndMethods.project import Player
+from AttributesAndMethods.project import Team
 
 
 class Tests(unittest.TestCase):

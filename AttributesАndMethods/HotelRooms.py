@@ -1,6 +1,6 @@
 
-from project.hotel import Hotel
-from project.room import Room
+from AttributesAndMethods.project import Hotel
+from AttributesAndMethods.project import Room
 import unittest
 from unittest import mock
 

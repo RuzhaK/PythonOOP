@@ -1,6 +1,6 @@
-from project.customer import Customer
-from project.dvd import DVD
-from project.movie_world import MovieWorld
+from AttributesAndMethods.project import Customer
+from AttributesAndMethods.project import DVD
+from AttributesAndMethods.project import MovieWorld
 
 import unittest
 

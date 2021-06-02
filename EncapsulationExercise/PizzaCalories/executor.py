@@ -1,8 +1,8 @@
 import unittest
 
-from project.dough import Dough
-from project.pizza import Pizza
-from project.topping import Topping
+from AttributesAndMethods.project import Dough
+from AttributesAndMethods.project import Pizza
+from AttributesAndMethods.project import Topping
 
 
 class Tests(unittest.TestCase):

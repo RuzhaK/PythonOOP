@@ -1,10 +1,10 @@
-from project.lion import Lion
-from project.tiger import Tiger
-from project.cheetah import Cheetah
-from project.keeper import Keeper
-from project.vet import Vet
-from project.caretaker import Caretaker
-from project.zoo import Zoo
+from AttributesAndMethods.project import Lion
+from AttributesAndMethods.project import Tiger
+from AttributesAndMethods.project import Cheetah
+from AttributesAndMethods.project import Keeper
+from AttributesAndMethods.project import Vet
+from AttributesAndMethods.project import Caretaker
+from AttributesAndMethods.project import Zoo
 
 import unittest
 
